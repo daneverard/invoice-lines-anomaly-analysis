@@ -1,0 +1,8 @@
+scipy
+torch
+transformers
+spacy
+scikit-learn
+numpy
+scipy
+
